@@ -1,19 +1,45 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab texture.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  GLSL.cpp
   main.cpp
-c:\conor\csc471\final project\final project\src\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(87): warning C4305: '+=': truncation from 'double' to 'float'
-c:\conor\csc471\final project\final project\src\main.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(400): warning C4305: '+=': truncation from 'double' to 'float'
-c:\conor\csc471\final project\final project\src\main.cpp(409): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(410): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(411): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\conor\csc471\final project\final project\src\main.cpp(420): warning C4101: 'M2': unreferenced local variable
-  lab texture.vcxproj -> C:\Conor\CSC471\Final Project\Final Project\Debug\Final Project.exe
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(87): warning C4305: '+=': truncation from 'double' to 'float'
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(400): warning C4305: '+=': truncation from 'double' to 'float'
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(409): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(410): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(411): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\main.cpp(420): warning C4101: 'M2': unreferenced local variable
+  MatrixStack.cpp
+  Program.cpp
+  recAudio.cpp
+  recordAudio.cpp
+c:\conor\csc471\final project\music_vis_2d\src\recordaudio.cpp(206): warning C4244: '=': conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+c:\conor\csc471\final project\music_vis_2d\src\recordaudio.cpp(218): warning C4244: 'initializing': conversion from 'REFERENCE_TIME' to 'int', possible loss of data
+  Shape.cpp
+c:\conor\csc471\final project\music_vis_2d\src\shape.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  WindowManager.cpp
+  Generating Code...
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Conor\CSC471\Final Project\music_vis_2D\Debug\glfw.pdb'; linking object as if no debug info
+  lab texture.vcxproj -> C:\Conor\CSC471\Final Project\music_vis_2D\Debug\Final Project.exe

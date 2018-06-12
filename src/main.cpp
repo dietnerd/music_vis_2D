@@ -406,9 +406,9 @@ public:
 		glViewport(0, 0, width, height);
 
 
-        float r = max(0, min(0.7, avgHeight / AVG_HEIGHT - 1));
-        float g = max(0,  min(0.7, avgHeight / AVG_HEIGHT - 1));
-        float b = max(0, min(0.7, avgHeight / AVG_HEIGHT - 1));
+        float r = max(0, min(0.5, avgHeight / AVG_HEIGHT - 1));
+        float g = max(0,  min(0.5, avgHeight / AVG_HEIGHT - 1));
+        float b = max(0, min(0.5, avgHeight / AVG_HEIGHT - 1));
 
         glClearColor(r, g, b, 1.0);
 		// Clear framebuffer.
