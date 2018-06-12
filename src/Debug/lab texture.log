@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab texture.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\conor\csc471\final project\final project\src\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(87): warning C4305: '+=': truncation from 'double' to 'float'
+c:\conor\csc471\final project\final project\src\main.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(160): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(400): warning C4305: '+=': truncation from 'double' to 'float'
+c:\conor\csc471\final project\final project\src\main.cpp(409): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(410): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(411): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(420): warning C4101: 'M2': unreferenced local variable
+  lab texture.vcxproj -> C:\Conor\CSC471\Final Project\Final Project\Debug\Final Project.exe

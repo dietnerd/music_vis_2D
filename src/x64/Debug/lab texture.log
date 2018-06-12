@@ -1,0 +1,25 @@
+﻿  glad.c
+  GLSL.cpp
+  main.cpp
+c:\conor\csc471\final project\final project\src\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(61): warning C4101: 'fout': unreferenced local variable
+c:\conor\csc471\final project\final project\src\main.cpp(86): warning C4305: '+=': truncation from 'double' to 'float'
+c:\conor\csc471\final project\final project\src\main.cpp(96): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\conor\csc471\final project\final project\src\main.cpp(387): warning C4101: 'M2': unreferenced local variable
+  MatrixStack.cpp
+  Program.cpp
+  recAudio.cpp
+  recordAudio.cpp
+c:\conor\csc471\final project\final project\src\recordaudio.cpp(206): warning C4244: '=': conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+c:\conor\csc471\final project\final project\src\recordaudio.cpp(218): warning C4244: 'initializing': conversion from 'REFERENCE_TIME' to 'int', possible loss of data
+  Shape.cpp
+c:\conor\csc471\final project\final project\src\shape.cpp(38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\conor\csc471\final project\final project\src\shape.cpp(76): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  WindowManager.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glfw3.lib'
